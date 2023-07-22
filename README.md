@@ -49,7 +49,7 @@ The data was highly imbalanced, hence we used **Synthetic Minority Oversampling 
 - **Support Vector Classifier** 
 - **Random Forest Classifier** 
 - **XGBoost -** 
-- 
+  
 ##  Requirements 
 
 ### Libraries
