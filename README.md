@@ -48,7 +48,7 @@ The data was highly imbalanced, hence we used **Synthetic Minority Oversampling 
 - **Logistic Regression** 
 - **Support Vector Classifier** 
 - **Random Forest Classifier** 
-- **XGBoost -** 
+- **XGBoost** 
   
 ##  Requirements 
 
